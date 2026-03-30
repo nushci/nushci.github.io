@@ -21,8 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-nus-computing-will-be-hosting-our-first-ever-invite-only-chi-event-in-barcelona-this-year-also-see-these-other-links-sharing-our-presence-at-chi-pin-sym-39-s-post-sharing-all-of-singapore-39-s-chi-publications-ai4sg-lab-39-s-chi-schedule",
+            },},{id: "news-nus-computing-will-be-hosting-our-first-ever-invite-only-chi-event-in-barcelona-this-year-also-see-these-links-sharing-our-presence-at-chi-pin-sym-39-s-post-sharing-all-of-singapore-39-s-chi-publications-ai4sg-lab-39-s-chi-schedule",
           title: 'NUS Computing will be hosting our first ever (invite-only) CHI Event in Barcelona...',
+          description: "",
+          section: "News",},{id: "news-dis-2026-to-be-held-at-utown-on-nus-campus",
+          title: 'DIS 2026 to be held at UTown on NUS campus!',
           description: "",
           section: "News",},{id: "projects-brian-y-lim",
           title: 'Brian Y. Lim',
@@ -73,7 +76,7 @@ ninja.data = [{
           title: 'Wei Tsang Ooi',
           description: "Associate Professor, Department of Information Systems and Computer Science",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Ooi_Wei_Tsang%20/";
+              window.location.href = "/projects/Ooi_Wei_Tsang/";
             },},{id: "projects-suranga-nanayakkara",
           title: 'Suranga Nanayakkara',
           description: "Associate Professor, Department of Computer Science",
