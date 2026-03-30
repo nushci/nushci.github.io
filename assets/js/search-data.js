@@ -27,7 +27,12 @@ ninja.data = [{
           section: "News",},{id: "news-dis-2026-to-be-held-at-utown-on-nus-campus",
           title: 'DIS 2026 to be held at UTown on NUS campus!',
           description: "",
-          section: "News",},{id: "projects-brian-y-lim",
+          section: "News",},{id: "projects-alex-mitchell",
+          title: 'Alex Mitchell',
+          description: "Associate Professor, Department of Communications and New Media",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Alex_Mitchell/";
+            },},{id: "projects-brian-y-lim",
           title: 'Brian Y. Lim',
           description: "Associate Professor, Department of Computer Science",
           section: "Projects",handler: () => {
@@ -37,6 +42,11 @@ ninja.data = [{
           description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Clement_Zheng/";
+            },},{id: "projects-dasom-choi",
+          title: 'Dasom Choi',
+          description: "Assistant Professor, Division of Industrial Design",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Dasom_Choi/";
             },},{id: "projects-pin-sym-foong",
           title: 'Pin Sym Foong',
           description: "Senior Research Fellow, Saw Swee Hock School of Public Health",
@@ -74,7 +84,7 @@ ninja.data = [{
               window.location.href = "/projects/Lee_Yi-Chieh/";
             },},{id: "projects-wei-tsang-ooi",
           title: 'Wei Tsang Ooi',
-          description: "Associate Professor, Department of Information Systems and Computer Science",
+          description: "Associate Professor, Department of Computer Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ooi_Wei_Tsang/";
             },},{id: "projects-suranga-nanayakkara",
