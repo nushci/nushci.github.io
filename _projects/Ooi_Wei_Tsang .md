@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Wei Tsang Ooi
+last_name: Ooi
+description: Associate Professor, Department of Information Systems and Computer Science
+img: assets/img/ooiwt.jpg
+redirect: https://www.comp.nus.edu.sg/cs/people/ooiwt/
+importance: 10
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.

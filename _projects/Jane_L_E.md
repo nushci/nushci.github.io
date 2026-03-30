@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Jane L. E
+last_name: E
+description: Assistant Professor, Department of Computer Science
+img: assets/img/janee_purple_square.jpg
+redirect: https://www.comp.nus.edu.sg/cs/people/ejane/
+importance: 6
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.

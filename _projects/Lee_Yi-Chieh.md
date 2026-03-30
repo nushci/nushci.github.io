@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Yi-Chieh Lee
+last_name: Lee
+description: Assistant Professor, Department of Computer Science
+img: assets/img/yclee.jpg
+redirect: https://www.comp.nus.edu.sg/cs/people/yclee/
+importance: 9
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.
