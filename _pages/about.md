@@ -26,6 +26,6 @@ latest_posts:
 
 \[**about us**\] Welcome to the (in-progress) website for the HCI community at National University of Singapore. We are an interdisciplinary group working on human-centered methods spanning departments such as [School of Computing](https://www.comp.nus.edu.sg/), [Division of Industrial Design](https://cde.nus.edu.sg/did/), [Department of Communications & New Media](https://fass.nus.edu.sg/cnm/), [School of Public Health](https://sph.nus.edu.sg/), and others.
 
-\[**upcoming**\] NUS Computing will be hosting our first ever (invite-only) CHI Event in Barcelona this year! The event will be held on April 15th evening. Please fill out this form (TBD) if you are interested in attending. Note attendance is not guaranteed until you receive confirmation from one of the SoC faculty.
+<!--\[**upcoming**\] NUS Computing will be hosting our first ever (invite-only) CHI Event in Barcelona this year! The event will be held on April 15th evening. Please fill out this form (TBD) if you are interested in attending. Note attendance is not guaranteed until you receive confirmation from one of the SoC faculty.
 
-<img src="assets/img/nus-chi-poster.png" width="600px"/>
+<img src="assets/img/nus-chi-poster.png" width="600px"/>-->
