@@ -24,51 +24,66 @@ ninja.data = [{
             },},{id: "news-nus-computing-chi-event-also-see-pin-sym-s-post-sharing-all-of-singapore-s-chi-publications",
           title: 'NUS Computing @ CHI event. Also see Pin Sym’s post sharing all of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-brian-y-lim",
+          title: 'Brian Y. Lim',
+          description: "Associate Professor, Department of Computer Science",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/Brian_Lim_Youliang/";
+            },},{id: "projects-clement-zheng",
+          title: 'Clement Zheng',
+          description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/Clement_Zheng/";
+            },},{id: "projects-pin-sym-foong",
+          title: 'Pin Sym Foong',
+          description: "Senior Research Fellow, Saw Swee Hock School of Public Health",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/Foong_Pin_Sym/";
+            },},{id: "projects-gabriel-lipkowitz",
+          title: 'Gabriel Lipkowitz',
+          description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/Gabriel_Elijah_Lipkowitz/";
+            },},{id: "projects-irmandy-wicaksono",
+          title: 'Irmandy Wicaksono',
+          description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/Irmandy_Wicaksono/";
+            },},{id: "projects-jane-l-e",
+          title: 'Jane L. E',
+          description: "Assistant Professor, Department of Computer Science",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/Jane_L_E/";
+            },},{id: "projects-janghee-cho",
+          title: 'Janghee Cho',
+          description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/Janghee_Cho/";
+            },},{id: "projects-justin-moon",
+          title: 'Justin Moon',
+          description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/Justin_Moon/";
+            },},{id: "projects-yi-chieh-lee",
+          title: 'Yi-Chieh Lee',
+          description: "Assistant Professor, Department of Computer Science",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/Lee_Yi-Chieh/";
+            },},{id: "projects-wei-tsang-ooi",
+          title: 'Wei Tsang Ooi',
+          description: "Associate Professor, Department of Information Systems and Computer Science",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Ooi_Wei_Tsang%20/";
+            },},{id: "projects-suranga-nanayakkara",
+          title: 'Suranga Nanayakkara',
+          description: "Associate Professor, Department of Computer Science",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Suranga_Nanayakkara/";
+            },},{id: "projects-ching-chiuan-yen",
+          title: 'Ching-Chiuan Yen',
+          description: "Associate Professor, Division of Industrial Design",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Yen_Ching-Chiuan/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
