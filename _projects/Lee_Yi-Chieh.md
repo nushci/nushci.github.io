@@ -6,7 +6,7 @@ description: Assistant Professor, Department of Computer Science
 img: assets/img/yclee.jpg
 redirect: https://www.comp.nus.edu.sg/cs/people/yclee/
 importance: 9
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

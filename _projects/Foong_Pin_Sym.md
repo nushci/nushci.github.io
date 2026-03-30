@@ -6,7 +6,7 @@ description: Senior Research Fellow, Saw Swee Hock School of Public Health
 img: assets/img/FoongPinSym.jpg
 redirect: https://sph.nus.edu.sg/faculty-directory/foong-pin-sym/
 importance: 3
-category: Faculty
+category: faculty
 related_publications: true
 ---
 

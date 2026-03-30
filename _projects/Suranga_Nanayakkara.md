@@ -6,7 +6,7 @@ description: Associate Professor, Department of Computer Science
 img: assets/img/suranga.jpg
 redirect: https://www.comp.nus.edu.sg/cs/people/suranga/
 importance: 11
-category: Faculty
+category: faculty
 giscus_comments: true
 ---
 

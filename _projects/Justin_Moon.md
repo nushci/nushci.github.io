@@ -6,7 +6,7 @@ description: Assistant Professor, Division of Industrial Design
 img: assets/img/Justin.avif
 redirect: https://cde.nus.edu.sg/did/staff/justin-moon/
 importance: 8
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

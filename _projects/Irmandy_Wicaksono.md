@@ -6,7 +6,7 @@ description: Assistant Professor, Division of Industrial Design
 img: assets/img/Irmandy.avif
 redirect: https://cde.nus.edu.sg/did/staff/irmandy-wicaksono/
 importance: 5
-category: Faculty
+category: faculty
 giscus_comments: true
 ---
 

@@ -6,7 +6,7 @@ description: Associate Professor, Department of Computer Science
 img: assets/img/brianlim.jpg
 redirect: https://www.comp.nus.edu.sg/cs/people/brianlim/
 importance: 1
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

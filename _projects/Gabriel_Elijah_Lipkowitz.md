@@ -6,7 +6,7 @@ description: Assistant Professor, Division of Industrial Design
 img: assets/img/Gabriel.avif
 redirect: https://cde.nus.edu.sg/did/staff/gabriel-lipkowitz/
 importance: 4
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

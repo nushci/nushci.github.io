@@ -6,7 +6,7 @@ description: Assistant Professor, Division of Industrial Design
 img: assets/img/Clement.avif
 redirect: https://cde.nus.edu.sg/did/staff/clement-zheng/
 importance: 2
-category: Faculty
+category: faculty
 related_publications: true
 ---
 

@@ -6,7 +6,7 @@ description: Associate Professor, Department of Information Systems and Computer
 img: assets/img/ooiwt.jpg
 redirect: https://www.comp.nus.edu.sg/cs/people/ooiwt/
 importance: 10
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

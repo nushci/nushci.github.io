@@ -5,7 +5,7 @@ permalink: /people/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Faculty]
+display_categories: [faculty]
 horizontal: false
 ---
 

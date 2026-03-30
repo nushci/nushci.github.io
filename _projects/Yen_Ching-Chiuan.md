@@ -6,7 +6,7 @@ description: Associate Professor, Division of Industrial Design
 img: assets/img/Yen.avif
 redirect: https://cde.nus.edu.sg/did/staff/yen-chingchiuan/
 importance: 12
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

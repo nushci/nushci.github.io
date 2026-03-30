@@ -6,7 +6,7 @@ description: Assistant Professor, Division of Industrial Design
 img: assets/img/JangHee.avif
 redirect: https://cde.nus.edu.sg/did/staff/janghee-cho/
 importance: 7
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.

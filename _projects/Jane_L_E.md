@@ -6,7 +6,7 @@ description: Assistant Professor, Department of Computer Science
 img: assets/img/janee_purple_square.jpg
 redirect: https://www.comp.nus.edu.sg/cs/people/ejane/
 importance: 6
-category: Faculty
+category: faculty
 ---
 
 Every project has a beautiful feature showcase page.
