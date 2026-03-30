@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Ching-Chiuan Yen
+last_name: Yen
+description: Associate Professor, Division of Industrial Design
+img: assets/img/Yen.avif
+redirect: https://cde.nus.edu.sg/did/staff/yen-chingchiuan/
+importance: 12
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.

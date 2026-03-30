@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Justin Moon
+last_name: Moon
+description: Assistant Professor, Division of Industrial Design
+img: assets/img/Justin.avif
+redirect: https://cde.nus.edu.sg/did/staff/justin-moon/
+importance: 8
+category: Faculty
 ---
 
 Every project has a beautiful feature showcase page.

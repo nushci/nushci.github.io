@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Suranga Nanayakkara
+last_name: Nanayakkara
+description: Associate Professor, Department of Computer Science
+img: assets/img/suranga.jpg
+redirect: https://www.comp.nus.edu.sg/cs/people/suranga/
+importance: 11
+category: Faculty
 giscus_comments: true
 ---
 
