@@ -4,7 +4,7 @@ title: Clement Zheng
 last_name: Zheng
 description: Assistant Professor, Division of Industrial Design
 img: assets/img/Clement.avif
-redirect: https://cde.nus.edu.sg/did/staff/clement-zheng/
+redirect: https://clementzheng.info/
 importance: 2
 category: faculty
 related_publications: true

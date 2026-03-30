@@ -4,7 +4,7 @@ title: Yi-Chieh Lee
 last_name: Lee
 description: Assistant Professor, Department of Computer Science
 img: assets/img/yclee.jpg
-redirect: https://www.comp.nus.edu.sg/cs/people/yclee/
+redirect: https://www.ai4sg.org/
 importance: 9
 category: faculty
 ---

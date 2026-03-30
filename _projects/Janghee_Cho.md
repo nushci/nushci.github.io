@@ -4,7 +4,7 @@ title: Janghee Cho
 last_name: Cho
 description: Assistant Professor, Division of Industrial Design
 img: assets/img/JangHee.avif
-redirect: https://cde.nus.edu.sg/did/staff/janghee-cho/
+redirect: https://www.jangheecho.com/
 importance: 7
 category: faculty
 ---

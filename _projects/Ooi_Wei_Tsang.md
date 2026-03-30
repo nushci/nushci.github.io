@@ -4,7 +4,7 @@ title: Wei Tsang Ooi
 last_name: Ooi
 description: Associate Professor, Department of Information Systems and Computer Science
 img: assets/img/ooiwt.jpg
-redirect: https://www.comp.nus.edu.sg/cs/people/ooiwt/
+redirect: https://www.comp.nus.edu.sg/~ooiwt/
 importance: 10
 category: faculty
 ---

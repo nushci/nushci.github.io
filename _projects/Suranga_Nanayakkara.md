@@ -4,7 +4,7 @@ title: Suranga Nanayakkara
 last_name: Nanayakkara
 description: Associate Professor, Department of Computer Science
 img: assets/img/suranga.jpg
-redirect: https://www.comp.nus.edu.sg/cs/people/suranga/
+redirect: https://ahlab.org/
 importance: 11
 category: faculty
 giscus_comments: true

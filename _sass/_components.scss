@@ -68,10 +68,15 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-theme-dark-color);
+    font-weight: 300 !important;
   }
 
   .card-body {
     padding: 0rem 0rem 1rem 0rem;
+  }
+
+  .card-text {
+    font-weight: 300 !important;
   }
 }
 

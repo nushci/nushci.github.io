@@ -4,7 +4,7 @@ title: Brian Y. Lim
 last_name: Lim
 description: Associate Professor, Department of Computer Science
 img: assets/img/brianlim.jpg
-redirect: https://www.comp.nus.edu.sg/cs/people/brianlim/
+redirect: https://www.brianlim.net/
 importance: 1
 category: faculty
 ---

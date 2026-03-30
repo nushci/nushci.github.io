@@ -4,7 +4,7 @@ title: Gabriel Lipkowitz
 last_name: Lipkowitz
 description: Assistant Professor, Division of Industrial Design
 img: assets/img/Gabriel.avif
-redirect: https://cde.nus.edu.sg/did/staff/gabriel-lipkowitz/
+redirect: https://gabriel-lipkowitz.com/
 importance: 4
 category: faculty
 ---

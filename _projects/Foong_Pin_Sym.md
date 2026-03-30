@@ -4,7 +4,7 @@ title: Pin Sym Foong
 last_name: Foong
 description: Senior Research Fellow, Saw Swee Hock School of Public Health
 img: assets/img/FoongPinSym.jpg
-redirect: https://sph.nus.edu.sg/faculty-directory/foong-pin-sym/
+redirect: https://pinsym.wordpress.com/
 importance: 3
 category: faculty
 related_publications: true

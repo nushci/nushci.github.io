@@ -4,7 +4,7 @@ title: Irmandy Wicaksono
 last_name: Wicaksono
 description: Assistant Professor, Division of Industrial Design
 img: assets/img/Irmandy.avif
-redirect: https://cde.nus.edu.sg/did/staff/irmandy-wicaksono/
+redirect: https://www.irmandyw.com/
 importance: 5
 category: faculty
 giscus_comments: true

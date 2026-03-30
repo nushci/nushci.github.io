@@ -4,7 +4,7 @@ title: Justin Moon
 last_name: Moon
 description: Assistant Professor, Division of Industrial Design
 img: assets/img/Justin.avif
-redirect: https://cde.nus.edu.sg/did/staff/justin-moon/
+redirect: https://www.justinmoon.info/
 importance: 8
 category: faculty
 ---
