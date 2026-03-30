@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Wei Tsang Ooi
-last_name: Ooi
-description: Associate Professor, Department of Computer Science
-img: assets/img/ooiwt.jpg
-redirect: https://www.comp.nus.edu.sg/~ooiwt/
-importance: 10
+title: Dasom Choi
+last_name: Choi
+description: Assistant Professor, Division of Industrial Design
+img: assets/img/dasomchoi.png
+redirect: https://dasomchoi.com/
+importance: 13
 category: faculty
 ---
 

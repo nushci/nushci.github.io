@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Wei Tsang Ooi
-last_name: Ooi
-description: Associate Professor, Department of Computer Science
-img: assets/img/ooiwt.jpg
-redirect: https://www.comp.nus.edu.sg/~ooiwt/
-importance: 10
+title: Alex Mitchell
+last_name: Mitchell
+description: Associate Professor, Department of Communications and New Media
+img: assets/img/alexmitchell.jpg
+redirect: https://discovery.nus.edu.sg/1161-alex-mitchell
+importance: 14
 category: faculty
 ---
 
