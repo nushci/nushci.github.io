@@ -21,8 +21,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-nus-computing-chi-event-also-see-pin-sym-s-post-sharing-all-of-singapore-s-chi-publications",
-          title: 'NUS Computing @ CHI event. Also see Pin Sym’s post sharing all of...',
+            },},{id: "news-nus-computing-will-be-hosting-our-first-ever-invite-only-chi-event-in-barcelona-this-year-also-see-these-other-links-sharing-our-presence-at-chi-pin-sym-39-s-post-sharing-all-of-singapore-39-s-chi-publications-ai4sg-lab-39-s-chi-schedule",
+          title: 'NUS Computing will be hosting our first ever (invite-only) CHI Event in Barcelona...',
           description: "",
           section: "News",},{id: "projects-brian-y-lim",
           title: 'Brian Y. Lim',
