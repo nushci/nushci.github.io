@@ -40,8 +40,7 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: var(--global-theme-dark-color);
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -54,6 +53,10 @@ table.table a {
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
+}
+
+h2 {
+  padding-top: 40px;
 }
 
 blockquote {

@@ -38,6 +38,7 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  box-shadow: none;
 
   figure.card-img-top {
     width: 100%;
@@ -89,6 +90,10 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+}
+
+.clearfix {
+  padding-top: 40px !important;
 }
 
 .profile.float-right {
@@ -173,8 +178,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--global-theme-color);
+    border-bottom: 1px solid var(--global-theme-dark-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
