@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-nus-computing-will-be-hosting-our-first-ever-invite-only-chi-event-in-barcelona-this-year-also-see-these-links-sharing-our-presence-at-chi-pin-sym-39-s-post-sharing-all-of-singapore-39-s-chi-publications-ai4sg-lab-39-s-chi-schedule",
+            },},{id: "news-nus-computing-will-be-hosting-our-first-ever-invite-only-chi-event-in-barcelona-this-year-also-see-these-links-sharing-our-presence-at-chi-pin-sym-39-s-post-sharing-all-of-singapore-39-s-chi-publications-ai4sg-lab-39-s-chi-schedule-15-years-of-ah-lab-chi-schedule",
           title: 'NUS Computing will be hosting our first ever (invite-only) CHI Event in Barcelona...',
           description: "",
           section: "News",},{id: "news-dis-2026-to-be-held-at-utown-on-nus-campus",
