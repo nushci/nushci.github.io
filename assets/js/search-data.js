@@ -77,8 +77,8 @@ ninja.data = [{
           description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Justin_Moon/";
-            },},{id: "projects-yi-chieh-lee",
-          title: 'Yi-Chieh Lee',
+            },},{id: "projects-yi-chieh-ej-lee",
+          title: 'Yi-Chieh (EJ) Lee',
           description: "Assistant Professor, Department of Computer Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Lee_Yi-Chieh/";
