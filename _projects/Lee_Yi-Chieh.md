@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yi-Chieh Lee
+title: Yi-Chieh (EJ) Lee
 last_name: Lee
 description: Assistant Professor, Department of Computer Science
 img: assets/img/yclee.jpg
