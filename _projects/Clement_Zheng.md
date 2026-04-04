@@ -3,8 +3,8 @@ layout: page
 title: Clement Zheng
 last_name: Zheng
 description: Assistant Professor, Division of Industrial Design
-img: assets/img/Clement.avif
-redirect: https://clementzheng.info/
+img: assets/img/clement.png
+redirect: https://interactivematerials.info/
 importance: 2
 category: faculty
 related_publications: true
