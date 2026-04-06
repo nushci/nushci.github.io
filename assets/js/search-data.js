@@ -77,6 +77,16 @@ ninja.data = [{
           description: "Assistant Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Justin_Moon/";
+            },},{id: "projects-khoo-eng-tat",
+          title: 'Khoo Eng Tat',
+          description: "Associate Professor, Engineering Design and Innovation Centre",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Khoo_Eng-Tat/";
+            },},{id: "projects-kokil-jaidka",
+          title: 'Kokil Jaidka',
+          description: "Associate Professor, Department of Communications and New Media",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Kokil_Jaidka/";
             },},{id: "projects-yi-chieh-ej-lee",
           title: 'Yi-Chieh (EJ) Lee',
           description: "Assistant Professor, Department of Computer Science",
