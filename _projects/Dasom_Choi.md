@@ -7,6 +7,8 @@ img: assets/img/dasomchoi.png
 redirect: https://dasomchoi.com/
 importance: 13
 category: faculty
+lab: "[tbc]"  # Lab name
+lab_url: ""  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

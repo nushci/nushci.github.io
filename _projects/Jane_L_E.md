@@ -7,6 +7,8 @@ img: assets/img/janee_purple_square.jpg
 redirect: https://ejane.me/
 importance: 6
 category: faculty
+lab: "Palette Lab"  # Lab name
+lab_url: "https://ejane.me/palette/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

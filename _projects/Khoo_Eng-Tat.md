@@ -7,6 +7,8 @@ img: assets/img/engtat.avif
 redirect: https://cde.nus.edu.sg/edic/staff/khoo-eng-tat/
 importance: 12
 category: faculty
+lab: "Immersive Reality Lab"  # Lab name
+lab_url: "https://blog.nus.edu.sg/immersiverealitylab/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

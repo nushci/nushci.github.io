@@ -8,6 +8,8 @@ redirect: https://pinsym.wordpress.com/
 importance: 3
 category: faculty
 related_publications: true
+lab: "TeleHealth Core"  # Lab name
+lab_url: "https://medicine.nus.edu.sg/core-facilities/telehealth-core/equipment-capabilities/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

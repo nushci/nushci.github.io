@@ -7,6 +7,8 @@ img: assets/img/Justin.avif
 redirect: https://www.justinmoon.info/
 importance: 8
 category: faculty
+lab: "Fabrication Futures Lab"  # Lab name
+lab_url: "https://www.fabricationfutureslab.com/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

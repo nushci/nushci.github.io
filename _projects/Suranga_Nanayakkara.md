@@ -4,10 +4,12 @@ title: Suranga Nanayakkara
 last_name: Nanayakkara
 description: Associate Professor, Department of Computer Science
 img: assets/img/suranga.jpg
-redirect: https://ahlab.org/
+redirect: https://suranga.info/
 importance: 11
 category: faculty
 giscus_comments: true
+lab: "Augmented Human Lab"  # Lab name
+lab_url: "https://ahlab.org/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.
