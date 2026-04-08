@@ -7,6 +7,8 @@ img: assets/img/alexmitchell.jpg
 redirect: https://discovery.nus.edu.sg/1161-alex-mitchell
 importance: 14
 category: faculty
+lab: "Narrative and Play Research Studio"  # Lab name
+lab_url: "http://www.narrativeandplay.org/index.html"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

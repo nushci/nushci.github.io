@@ -7,6 +7,8 @@ img: assets/img/kokil.jpeg
 redirect: https://kokiljaidka.wordpress.com/
 importance: 12
 category: faculty
+lab: "SMOL Project: Social Media, Online Behavior, and Language"  # Lab name
+lab_url: "https://www.smolproject.com/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

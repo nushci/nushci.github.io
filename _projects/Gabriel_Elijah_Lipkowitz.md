@@ -7,6 +7,8 @@ img: assets/img/Gabriel.avif
 redirect: https://gabriel-lipkowitz.com/
 importance: 4
 category: faculty
+lab: "Interactive 3D Design Lab"  # Lab name
+lab_url: "https://www.i3d.design/about"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

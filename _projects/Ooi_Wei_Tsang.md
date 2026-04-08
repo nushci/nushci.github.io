@@ -7,6 +7,8 @@ img: assets/img/ooiwt.jpg
 redirect: https://www.comp.nus.edu.sg/~ooiwt/
 importance: 10
 category: faculty
+lab: "IPAL: International Research Laboratory on Artificial Intelligence"  # Lab name
+lab_url: "https://ipal.cnrs.fr/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.

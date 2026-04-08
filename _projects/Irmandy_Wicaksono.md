@@ -8,6 +8,8 @@ redirect: https://www.irmandyw.com/
 importance: 5
 category: faculty
 giscus_comments: true
+lab: "SOFT TECHNOLOGIES LAB"  # Lab name
+lab_url: "https://www.softtechnologies.info/"  # Lab website URL
 ---
 
 Every project has a beautiful feature showcase page.
