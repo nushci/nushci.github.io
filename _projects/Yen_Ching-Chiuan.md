@@ -7,7 +7,7 @@ img: assets/img/Yen.avif
 redirect: https://cde.nus.edu.sg/did/staff/yen-chingchiuan/
 importance: 12
 category: faculty
-lab: "Keio-NUS CUTE Center"  # Lab name
+lab: "NUS CUTE Center"  # Lab name
 lab_url: "https://cutecenter.nus.edu.sg/"  # Lab website URL
 ---
 
