@@ -107,6 +107,11 @@ ninja.data = [{
           description: "Associate Professor, Division of Industrial Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Yen_Ching-Chiuan/";
+            },},{id: "projects-zhang-weiyu",
+          title: 'Zhang Weiyu',
+          description: "Professor, Communications And New Media",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Zhang_Weiyu/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
