@@ -35,6 +35,11 @@ ninja.data = [{
           description: "Associate Professor, Department of Communications and New Media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Alex_Mitchell/";
+            },},{id: "projects-bimlesh-wadhwa",
+          title: 'Bimlesh Wadhwa',
+          description: "Associate Professor, Department of Computer Science",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Bimlesh_Wadhwa/";
             },},{id: "projects-brian-y-lim",
           title: 'Brian Y. Lim',
           description: "Associate Professor, Department of Computer Science",
@@ -42,12 +47,12 @@ ninja.data = [{
               window.location.href = "/projects/Brian_Lim_Youliang/";
             },},{id: "projects-clement-zheng",
           title: 'Clement Zheng',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Clement_Zheng/";
             },},{id: "projects-dasom-choi",
           title: 'Dasom Choi',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Dasom_Choi/";
             },},{id: "projects-pin-sym-foong",
@@ -57,12 +62,12 @@ ninja.data = [{
               window.location.href = "/projects/Foong_Pin_Sym/";
             },},{id: "projects-gabriel-lipkowitz",
           title: 'Gabriel Lipkowitz',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Gabriel_Elijah_Lipkowitz/";
             },},{id: "projects-irmandy-wicaksono",
           title: 'Irmandy Wicaksono',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Irmandy_Wicaksono/";
             },},{id: "projects-jane-l-e",
@@ -72,12 +77,12 @@ ninja.data = [{
               window.location.href = "/projects/Jane_L_E/";
             },},{id: "projects-janghee-cho",
           title: 'Janghee Cho',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Janghee_Cho/";
             },},{id: "projects-justin-moon",
           title: 'Justin Moon',
-          description: "Assistant Professor, Division of Industrial Design",
+          description: "Assistant Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Justin_Moon/";
             },},{id: "projects-khoo-eng-tat",
@@ -107,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/Suranga_Nanayakkara/";
             },},{id: "projects-ching-chiuan-yen",
           title: 'Ching-Chiuan Yen',
-          description: "Associate Professor, Division of Industrial Design",
+          description: "Associate Professor, Department of Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Yen_Ching-Chiuan/";
             },},{id: "projects-zhang-weiyu",
