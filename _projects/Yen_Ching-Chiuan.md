@@ -2,7 +2,7 @@
 layout: page
 title: Ching-Chiuan Yen
 last_name: Yen
-description: Associate Professor, Division of Industrial Design
+description: Associate Professor, Department of Design
 img: assets/img/Yen.avif
 redirect: https://cde.nus.edu.sg/did/staff/yen-chingchiuan/
 importance: 1

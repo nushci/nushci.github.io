@@ -2,7 +2,7 @@
 layout: page
 title: Gabriel Lipkowitz
 last_name: Lipkowitz
-description: Assistant Professor, Division of Industrial Design
+description: Assistant Professor, Department of Design
 img: assets/img/Gabriel.avif
 redirect: https://gabriel-lipkowitz.com/
 importance: 1

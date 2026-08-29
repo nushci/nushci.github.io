@@ -2,7 +2,7 @@
 layout: page
 title: Janghee Cho
 last_name: Cho
-description: Assistant Professor, Division of Industrial Design
+description: Assistant Professor, Department of Design
 img: assets/img/JangHee.avif
 redirect: https://www.jangheecho.com/
 importance: 1

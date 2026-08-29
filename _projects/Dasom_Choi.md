@@ -2,7 +2,7 @@
 layout: page
 title: Dasom Choi
 last_name: Choi
-description: Assistant Professor, Division of Industrial Design
+description: Assistant Professor, Department of Design
 img: assets/img/dasomchoi.png
 redirect: https://dasomchoi.com/
 importance: 1
